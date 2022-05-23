@@ -1,4 +1,4 @@
-### Hi there 👋
+### Data created from the European Social Survey to be used in SMI205 assessment 2 
 
 <!--
 **200170541/200170541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
